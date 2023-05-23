@@ -1,0 +1,14 @@
+git clone ............
+cd ......klonlanan klasor
+git branch new-feature-1
+git checkout -b new-feature-1
+nano dosyaIsmi
+degisikligini yap ve kaydederek cik
+git add. 
+git commit -m "degisiklik"
+git push -u origin new-feature-1
+ilk linki kopyala ve tarayicidan gir create pull request tikla 
+senior artik degisikligi merge eder.
+
+git checkout master veya new-feature diyerek branch degistirebilirsin.
+git status durumunu kontrol etmek icin kullanabilirsin.
